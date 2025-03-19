@@ -1,7 +1,7 @@
 # 여유로 (SeoulFlow)
 
 <p align="center">
-  <a href="README.ko.md">한국어</a> | <a href="README.md">English</a>
+  <a href="README.md">English</a> | <a href="README.ko.md">한국어</a>
 </p>
 
 <p align="center">
@@ -89,7 +89,7 @@ LynxExplorer 앱으로 단말기의 QR 코드를 스캔하면 결과를 볼 수 
 4. 브랜치에 푸시합니다 (git push origin feature/amazing-feature).
 5. Pull Request를 생성합니다.
 
-자세한 기여 가이드라인은 [CONTRIBUTING.md](./CONTRIBUTING.md)를 참조하세요.
+자세한 기여 가이드라인은 [CONTRIBUTING.md](./CONTRIBUTING.ko.md)를 참조하세요.
 
 ## 라이선스
 
@@ -97,12 +97,11 @@ LynxExplorer 앱으로 단말기의 QR 코드를 스캔하면 결과를 볼 수 
 
 ## 연락처
 
-프로젝트 관리자: [tech.jmtt@gmail.com](mailto:tech.jmtt@gmail.com)
-웹사이트: [https://bendd.me/](https://bendd.me/)
-이슈 트래커: [GitHub Issues](https://github.com/jaem1n207/seoul-flow/issues)
+- 프로젝트 관리자: [tech.jmtt@gmail.com](mailto:tech.jmtt@gmail.com)
+- 웹사이트: [https://bendd.me/](https://bendd.me/)
+- 이슈 트래커: [GitHub Issues](https://github.com/jaem1n207/seoul-flow/issues)
 
 <p align="center">
   여유로 - 더 여유롭게 서울을 즐기세요!<br>
   ❤️
 </p>
-```

@@ -97,12 +97,11 @@ This project is distributed under the MIT License. See the LICENSE file for more
 
 ## Contact
 
-Project Maintainer: [tech.jmtt@gmail.com](mailto:tech.jmtt@gmail.com)
-Website: [https://bendd.me/](https://bendd.me/)
-Issue Tracker: [GitHub Issues](https://github.com/jaem1n207/seoul-flow/issues)
+- Project Maintainer: [tech.jmtt@gmail.com](mailto:tech.jmtt@gmail.com)
+- Website: [https://bendd.me/](https://bendd.me/)
+- Issue Tracker: [GitHub Issues](https://github.com/jaem1n207/seoul-flow/issues)
 
 <p align="center">
   SeoulFlow - Enjoy Seoul more comfortably!<br>
   ❤️
 </p>
-```

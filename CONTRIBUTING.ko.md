@@ -1,7 +1,7 @@
 # 기여 가이드라인
 
 <p align="center">
-  <a href="README.ko.md">한국어</a> | <a href="README.md">English</a>
+  <a href="README.md">English</a> | <a href="README.ko.md">한국어</a>
 </p>
 
 여유로(SeoulFlow) 프로젝트에 관심을 가져주셔서 감사합니다! 이 문서는 프로젝트에 기여하는 방법에 대한 가이드라인을 제공합니다.
